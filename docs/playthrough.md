@@ -139,7 +139,7 @@ Enter via Goblin Camp, Blighted Village well, or Hag's lair.
 - [ ] **Phalar Aluve** → Shadowheart: Lodged in rock west of Ancient Battlefield (X: 116 Y: -192). Use Melody: Sing for party support.
 - [ ] **The Shadespell Circlet** → Varria: Buy from Omeluum after quest
 - [ ] **Boots of Stormy Clamour** → Varria: Buy from Omeluum after quest
-- [ ] **Melf's First Staff** → Varria: From Omeluum shop (dual wield with Spellsparkler)
+- [ ] **Melf's First Staff** → Varria: Buy from Blurg (X: 111 Y: -89, dual wield with Spellsparkler)
 - [ ] **Caustic Band** → Astarion: Buy from Derryth Bonecloak
 
 ### Underdark — Grymforge (Level 5-6)
