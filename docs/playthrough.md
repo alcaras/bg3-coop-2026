@@ -87,7 +87,9 @@ nav_order: 2
 
 ---
 
-## ACT 1 — Levels 1-6
+<details open class="act-section">
+<summary>ACT 1 — Levels 1-6</summary>
+<div markdown="1">
 
 ### Nautiloid (Level 1)
 - [ ] **Everburn Blade** → Lae'zel: Kill/Command Commander Zhalk for his greatsword. Best 2H weapon until Act 3.
@@ -163,9 +165,14 @@ Enter via Goblin Camp, Blighted Village well, or Hag's lair.
 
 **End of Act 1 target: Level 6. Party: Shadowheart, Varria, Astarion, Lae'zel.**
 
+</div>
+</details>
+
 ---
 
-## ACT 2 — Levels 6-9
+<details open class="act-section">
+<summary>ACT 2 — Levels 6-9</summary>
+<div markdown="1">
 
 ### Last Light Inn (Level 6)
 First stop after entering Shadow-Cursed Lands.
@@ -228,9 +235,14 @@ After the Moonrise Towers assault, Minthara becomes a permanent companion.
 
 **End of Act 2 target: Level 8-9. Party: Shadowheart, Varria, Astarion, Minthara.**
 
+</div>
+</details>
+
 ---
 
-## ACT 3 — Levels 9-12
+<details open class="act-section">
+<summary>ACT 3 — Levels 9-12</summary>
+<div markdown="1">
 
 ### Rivington (Level 9)
 
@@ -330,6 +342,9 @@ Underwater prison. Time-limited rescue mission.
 
 ### Final Encounters
 - Morphic Pool → Elder Brain → End
+
+</div>
+</details>
 
 ---
 

@@ -19,6 +19,8 @@ nav_order: 1
 | Guide | Description |
 |:------|:------------|
 | [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, key choices. |
+| [Combat Cheat Sheet](combat) | Quick-reference combat rotations for all four characters. |
+| [Co-Op Coordination](coop) | Positioning, spell coordination, and common mistakes to avoid. |
 | [Varria](varria) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
 | [Shadowheart](shadowheart) | Smite Swords Bard 10/2 — Melee burst. Priority #2. |
 | [Astarion](astarion) | Gloom Stalker Assassin — Ranged burst. Priority #3. |

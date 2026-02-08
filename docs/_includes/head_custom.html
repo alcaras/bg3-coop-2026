@@ -191,6 +191,49 @@
   padding-bottom: 0.5em;
 }
 
+/* Sticky table headers */
+.main-content table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 1px 0 0 var(--border-color);
+}
+
+/* Collapsible act sections */
+.main-content details.act-section {
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.main-content details.act-section > summary {
+  color: var(--text-primary) !important;
+  font-size: 1.5em;
+  font-weight: 700;
+  padding: 0.3em 0 !important;
+  border-bottom: 1px solid var(--border-color) !important;
+  margin-bottom: 0.5em;
+}
+
+.main-content details.act-section[open] > summary {
+  border-bottom: 1px solid var(--border-color) !important;
+  padding-bottom: 0.3em !important;
+}
+
+/* Interactive checkboxes */
+.main-content input[type="checkbox"].gear-check {
+  cursor: pointer;
+}
+
+.main-content input[type="checkbox"].gear-check:checked + span,
+.main-content input[type="checkbox"].gear-check:checked ~ strong,
+.main-content li.gear-checked {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+
 /* Mobile table scroll */
 @media (max-width: 768px) {
   .main-content table {
@@ -199,3 +242,67 @@
   }
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var page = window.location.pathname;
+  var storageKey = 'bg3-gear-' + page;
+
+  // Load saved state
+  var saved = {};
+  try {
+    saved = JSON.parse(localStorage.getItem(storageKey)) || {};
+  } catch(e) {}
+
+  // Find all task-list checkboxes (kramdown renders - [ ] as disabled checkboxes)
+  var checkboxes = document.querySelectorAll('.main-content input[type="checkbox"]');
+  checkboxes.forEach(function(cb, i) {
+    // Get the text label for this checkbox (used as stable key)
+    var li = cb.closest('li');
+    if (!li) return;
+    var label = li.textContent.trim().substring(0, 60);
+    var key = i + ':' + label;
+
+    // Make it interactive
+    cb.removeAttribute('disabled');
+    cb.classList.add('gear-check');
+
+    // Restore saved state
+    if (saved[key]) {
+      cb.checked = true;
+      li.classList.add('gear-checked');
+    }
+
+    // Save on change
+    cb.addEventListener('change', function() {
+      if (cb.checked) {
+        saved[key] = true;
+        li.classList.add('gear-checked');
+      } else {
+        delete saved[key];
+        li.classList.remove('gear-checked');
+      }
+      localStorage.setItem(storageKey, JSON.stringify(saved));
+    });
+  });
+
+  // Save/restore collapsed act state
+  var actDetails = document.querySelectorAll('details.act-section');
+  var actKey = 'bg3-acts-' + page;
+  var actSaved = {};
+  try {
+    actSaved = JSON.parse(localStorage.getItem(actKey)) || {};
+  } catch(e) {}
+
+  actDetails.forEach(function(det, i) {
+    var label = det.querySelector('summary').textContent.trim();
+    if (actSaved[label] === false) {
+      det.removeAttribute('open');
+    }
+    det.addEventListener('toggle', function() {
+      actSaved[label] = det.open;
+      localStorage.setItem(actKey, JSON.stringify(actSaved));
+    });
+  });
+});
+</script>
