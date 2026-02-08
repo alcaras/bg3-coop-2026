@@ -20,6 +20,7 @@ nav_order: 1
 |:------|:------------|
 | [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, key choices. |
 | [Combat Cheat Sheet](combat) | Quick-reference combat rotations for all four characters. |
+| [Final Gear (BiS)](gear) | Best-in-slot gear for every character slot. |
 | [Co-Op Coordination](coop) | Positioning, spell coordination, and common mistakes to avoid. |
 | [Varria](varria) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
 | [Shadowheart](shadowheart) | Smite Swords Bard 10/2 — Melee burst. Priority #2. |
