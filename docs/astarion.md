@@ -98,6 +98,7 @@ nav_order: 5
 ## Gear Progression
 
 ### Act 1
+
 | Slot | Item | Source |
 |------|------|--------|
 | Ranged | Titanstring Bow | Zhentarim trader (Brem) |
@@ -109,6 +110,7 @@ nav_order: 5
 | Ring 2 | Caustic Band (+2 acid damage) | Myconid Colony -- Derryth Bonecloak |
 
 ### Act 2
+
 | Slot | Item | Source |
 |------|------|--------|
 | Chest | Yuan-ti Scale Mail (no stealth disadvantage, +initiative) | Last Light Inn -- Quartermaster Talli |
@@ -116,6 +118,7 @@ nav_order: 5
 | Gloves | Dark Justiciar Gauntlets or Flawed Helldusk Gloves | Act 2 |
 
 ### Act 3 (BiS)
+
 | Slot | Item | Source |
 |------|------|--------|
 | Ranged | Titanstring Bow | (keep from Act 1) |
