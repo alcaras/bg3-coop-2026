@@ -1,0 +1,72 @@
+<script>
+(function() {
+  var page = window.location.pathname;
+  var storageKey = 'bg3-gear-' + page;
+
+  // Load saved state
+  var saved = {};
+  try {
+    saved = JSON.parse(localStorage.getItem(storageKey)) || {};
+  } catch(e) {}
+
+  // Find all task-list checkboxes (kramdown renders - [ ] as disabled checkboxes)
+  var checkboxes = document.querySelectorAll('.main-content input[type="checkbox"]');
+  for (var i = 0; i < checkboxes.length; i++) {
+    (function(cb, idx) {
+      // Get the text label for this checkbox (used as stable key)
+      var li = cb.parentElement;
+      while (li && li.tagName !== 'LI') li = li.parentElement;
+      if (!li) return;
+      var label = li.textContent.trim().substring(0, 60);
+      var key = idx + ':' + label;
+
+      // Make it interactive
+      cb.disabled = false;
+      cb.style.cursor = 'pointer';
+      cb.style.pointerEvents = 'auto';
+
+      // Restore saved state
+      if (saved[key]) {
+        cb.checked = true;
+        li.style.opacity = '0.5';
+        li.style.textDecoration = 'line-through';
+      }
+
+      // Save on change
+      cb.addEventListener('change', function() {
+        if (cb.checked) {
+          saved[key] = true;
+          li.style.opacity = '0.5';
+          li.style.textDecoration = 'line-through';
+        } else {
+          delete saved[key];
+          li.style.opacity = '';
+          li.style.textDecoration = '';
+        }
+        localStorage.setItem(storageKey, JSON.stringify(saved));
+      });
+    })(checkboxes[i], i);
+  }
+
+  // Save/restore collapsed act state
+  var actDetails = document.querySelectorAll('details.act-section');
+  var actKey = 'bg3-acts-' + page;
+  var actSaved = {};
+  try {
+    actSaved = JSON.parse(localStorage.getItem(actKey)) || {};
+  } catch(e) {}
+
+  for (var j = 0; j < actDetails.length; j++) {
+    (function(det) {
+      var label = det.querySelector('summary').textContent.trim();
+      if (actSaved[label] === false) {
+        det.removeAttribute('open');
+      }
+      det.addEventListener('toggle', function() {
+        actSaved[label] = det.open;
+        localStorage.setItem(actKey, JSON.stringify(actSaved));
+      });
+    })(actDetails[j]);
+  }
+})();
+</script>
