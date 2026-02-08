@@ -4,7 +4,7 @@ title: "Shadowheart — Smite Swords Bard"
 nav_order: 4
 ---
 
-# Shadowheart Leveling Reference - Smite Swords Bard (Evil)
+# Shadowheart Leveling Reference - Smite Swords Bard
 
 **Final Build:** 10 College of Swords Bard / 2 Oath of Vengeance Paladin
 **Gear Priority:** #2 (Player 1)
@@ -85,7 +85,7 @@ Respec spell picks (Bard side): Sleep, Healing Word, Hold Person, Enhance Abilit
 ### Level 12 -- Bard 10
 - **Features:** Magical Secrets
 - **Spell 1:** Counterspell -- non-negotiable, shuts down enemy casters
-- **Spell 2:** Hunger of Hadar -- evil variant pick. Creates obscured area (synergy with Shar's Spear). Replaces Spirit Guardians from good builds.
+- **Spell 2:** Hunger of Hadar -- creates obscured area (synergy with Shar's Spear).
 - **BUILD COMPLETE: 10 Bard / 2 Paladin.**
 
 ---
@@ -112,7 +112,7 @@ Respec spell picks (Bard side): Sleep, Healing Word, Hold Person, Enhance Abilit
 - **Enhance Ability** -- Critical for Honor Mode dialogue/skill checks.
 - **Glyph of Warding** -- Best mid-game AoE. Sleep variant trivializes fights.
 - **Counterspell** (Magical Secrets) -- No contested reaction slot. Mandatory.
-- **Hunger of Hadar** (Magical Secrets, evil) -- Creates obscured zone. Shar's Spear synergy.
+- **Hunger of Hadar** (Magical Secrets) -- Creates obscured zone. Shar's Spear synergy.
 
 ### Utility / Flex Slots
 - Healing Word (bonus action emergency heal)
@@ -121,11 +121,11 @@ Respec spell picks (Bard side): Sleep, Healing Word, Hold Person, Enhance Abilit
 
 ---
 
-## BiS Gear (Evil Variant)
+## BiS Gear
 
 | Slot | Item | Source |
 |------|------|--------|
-| Main Hand | Shar's Spear of Evening | Gauntlet of Shar (evil choice) |
+| Main Hand | Shar's Spear of Evening | Gauntlet of Shar |
 | Ranged | Bow of Awareness (stat stick only) | Act 1 |
 | Head | Helmet of Arcane Acuity | Act 2 -- Tollhouse / Mason's Guild basement |
 | Chest | Bhaalist Armour | Act 3 -- Murder Tribunal (accept Bhaal) |

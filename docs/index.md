@@ -18,7 +18,7 @@ nav_order: 1
 
 | Guide | Description |
 |:------|:------------|
-| [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, evil choices. |
+| [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, key choices. |
 | [Visara](visara) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
 | [Shadowheart](shadowheart) | Smite Swords Bard 10/2 — Melee burst. Priority #2. |
 | [Astarion](astarion) | Gloom Stalker Assassin — Ranged burst. Priority #3. |
@@ -31,9 +31,11 @@ nav_order: 1
 
 **Player 1 (melee):** Shadowheart + Minthara. Stay grouped for Minthara's Aura of Protection (+4 saves to nearby allies).
 
-**Player 2 (ranged):** Visara + Astarion. Visara locks enemies down with Extended Command, Astarion deletes priority targets from stealth.
+**Player 2 (ranged):** Visara + Astarion. Visara melts groups with Scorching Ray and Fireball, then locks down survivors with Extended Command. Astarion deletes priority targets from stealth.
 
-### Key Evil Choices
+<details>
+<summary><strong>Key Story Choices (Spoilers)</strong></summary>
+<div markdown="1">
 
 | When | Choice | Reward |
 |:-----|:-------|:-------|
@@ -42,3 +44,6 @@ nav_order: 1
 | Act 2 | Shadowheart kills the Nightsong | Shar's Spear of Evening |
 | Act 3 | Murder Tribunal — accept Bhaal | Bhaalist Armour (doubles piercing damage) |
 | Act 3 | House of Grief — SH kills parents | Shar's Chosen |
+
+</div>
+</details>

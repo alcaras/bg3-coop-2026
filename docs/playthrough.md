@@ -4,7 +4,7 @@ title: Playthrough Guide
 nav_order: 2
 ---
 
-# BG3 Evil Co-Op Playthrough Guide
+# BG3 Co-Op Playthrough Guide
 
 **Party:** Shadowheart (SSB) | Visara (Fire Sorlock) | Astarion (Gloom Stalker) | Lae'zel (temp) → Minthara (Sorcadin)
 **Gear Priority:** Visara > Shadowheart > Astarion > Minthara
@@ -14,7 +14,7 @@ nav_order: 2
 
 ## Final Gear Assignments (BiS)
 
-### Shadowheart — SSB 10/2 Evil
+### Shadowheart — SSB 10/2
 | Slot | Item |
 |------|------|
 | Weapon | Shar's Spear of Evening |
@@ -109,17 +109,23 @@ nav_order: 2
 
 ### Sunlit Wetlands / Hag Fight (Level 4)
 - **HAG'S HAIR → SHADOWHEART (+1 STR)**. STR goes from 17→18.
-- Save Mayrina (or don't — evil run, up to the party)
+- Save Mayrina (or don't — up to the party)
 
 ### Goblin Camp (Level 4-5)
 - [ ] **Crusher's Ring** → Lae'zel: Novice Crusher near waypoint (+3m movement)
 - Talk to Minthara. **Tell her the Grove's location.**
 - Talk to Priestess Gut (for tadpole stuff if desired)
 
-### !! EVIL CHOICE: Raid the Emerald Grove
+<details>
+<summary><strong>!! STORY CHOICE: Raid the Emerald Grove (Spoilers)</strong></summary>
+<div markdown="1">
+
 - Side with goblins, blow the war horn, raid the grove
 - **Consequences:** Wyll leaves. Karlach/Halsin unavailable. Gale may leave (pass check to keep).
 - Minthara is a temp ally for the fight. She joins PERMANENTLY in Act 2.
+
+</div>
+</details>
 
 ### Underdark — Myconid Colony (Level 4-5)
 Enter via Goblin Camp, Blighted Village well, or Hag's lair.
@@ -192,11 +198,17 @@ Complete three trials. Collect 4 Umbral Gems.
 - [ ] **Killer's Sweetheart** → Minthara (hold for later): Self-Same Trial room (X: -830 Y: -726)
 - [ ] **Yuan-ti Scale Mail** → Astarion: Found in Act 2 encounters (no stealth disadvantage)
 
-### !! EVIL CHOICE: Shadowheart Kills the Nightsong
+<details>
+<summary><strong>!! STORY CHOICE: Shadowheart and the Nightsong (Spoilers)</strong></summary>
+<div markdown="1">
+
 At the end of the Gauntlet of Shar, embrace Shar.
 - [ ] **Shar's Spear of Evening** → Shadowheart: **CORE ITEM.** +3 piercing, obscured bonuses, Edge of Darkness, blind immunity.
 - Shadowheart becomes Dark Justiciar.
 - Replace Unseen Menace / Halberd of Vigilance immediately.
+
+</div>
+</details>
 
 ### !! Minthara Joins Permanently
 After the Moonrise Towers assault, Minthara becomes a permanent companion.
@@ -255,19 +267,31 @@ Hit all merchants first before major questlines.
 - [ ] **Boots of Persistence** → Astarion: Freedom of Movement + Longstrider
 - [ ] **Legacy of the Masters** → Astarion: +2 attack, +2 damage (replaces Gloves of Archery)
 
-### !! EVIL CHOICE: Murder Tribunal (Level 10-11)
+<details>
+<summary><strong>!! STORY CHOICE: Murder Tribunal (Level 10-11, Spoilers)</strong></summary>
+<div markdown="1">
+
 Complete "Investigate the Murders." Bring a hand to Candulhallow's Tombstones.
 - Kill Inspector Valeria. Accept Bhaal. Become Unholy Assassin.
 - [ ] **Bhaalist Armour** → Shadowheart: Buy from Echo of Abazigal. **Aura of Murder = double ALL piercing damage.** Toggle on/off as needed.
 
 > Shadowheart's build is now FULLY ONLINE: Shar's Spear + Bhaalist Armour + Arcane Acuity + Band of Mystic Scoundrel = one-shot most encounters.
 
+</div>
+</details>
+
 ### Cazador's Palace (Level 10-11)
 Astarion's personal quest.
 - [ ] **Rhapsody** → Visara: Cazador drops this. +1/+2/+3 to attack, damage, and DC per kill (stacks to 3).
 
-### !! EVIL CHOICE: House of Grief (Level 10-11)
+<details>
+<summary><strong>!! STORY CHOICE: House of Grief (Level 10-11, Spoilers)</strong></summary>
+<div markdown="1">
+
 Shadowheart's Shar questline. Dark Justiciar SH kills her parents → becomes Shar's Chosen.
+
+</div>
+</details>
 
 ### Wyrm's Rock — Dragon's Sanctum (Level 11)
 Fight Ansur the dragon beneath Wyrm's Rock.
@@ -304,7 +328,9 @@ Underwater prison. Time-limited rescue mission.
 
 ---
 
-## Quick Reference: Evil Choices Checklist
+<details>
+<summary><strong>Story Choices Checklist (Spoilers)</strong></summary>
+<div markdown="1">
 
 | When | Choice | Reward |
 |------|--------|--------|
@@ -317,6 +343,9 @@ Underwater prison. Time-limited rescue mission.
 | Act 3 | Murder Tribunal — accept Bhaal | Bhaalist Armour access |
 | Act 3 | House of Grief — SH kills parents | Shar's Chosen (RP) |
 | Act 3 | Mirror of Loss | +2 to one stat per character |
+
+</div>
+</details>
 
 ---
 

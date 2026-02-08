@@ -56,7 +56,7 @@ Alternative stat spread: 8 STR, **16 DEX**, 14 CON, 8 INT, 8 WIS, 16 CHA -- bett
 - **MAJOR BREAKPOINT.** All allies within 3m/10ft add Minthara's CHA modifier (+3) to ALL saving throws. This is the single strongest party support ability in the game. Stay near your team.
 
 ### Level 7 -- Paladin 7 -> BREAK OATH -> Oathbreaker
-- **How to break Oath:** Kill an innocent NPC, betray an ally, or do something overtly evil. In an evil playthrough this happens naturally. If it doesn't trigger, kill a random civilian.
+- **How to break Oath:** Kill an innocent NPC, betray an ally, or commit a sufficiently dark act. If it doesn't trigger naturally, kill a random civilian.
 - **Features:** Aura of Hate, Spooky Undead (raise dead action)
 - **Oathbreaker Spells:** Hellish Rebuke, Inflict Wounds (auto-prepared)
 - Aura of Hate adds CHA modifier to Minthara's own melee weapon damage. See clarification below.
