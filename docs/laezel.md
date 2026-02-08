@@ -33,7 +33,7 @@ No multiclass needed. Straight Fighter keeps things simple for a temporary party
 
 | Slot | Item | Source |
 |------|------|--------|
-| Weapon | Everburn Blade | Tutorial - Commander Zhalk |
+| Weapon | Sword of Justice (replaces Everburn Blade) | Risen Road - kill Anders |
 | Armor | Adamantine Splint Armour | Grymforge - Adamantine Forge |
 | Head | Grymskull Helm | Grymforge - Grym boss |
 | Gloves | Gloves of Power (if Absolute brand) or any | Goblin Camp |
@@ -53,7 +53,7 @@ Elixir of Hill Giant Strength (21 STR) -- buy from Auntie Ethel in Emerald Grove
 When Minthara permanently joins in Act 2, hand everything over:
 
 - **Adamantine Splint Armour** --> Minthara (she wears this until Helldusk Armour in Act 3)
-- **Everburn Blade** --> Minthara (she uses this until better 2H weapons available)
+- **Sword of Justice** --> Minthara (she uses this until Balduran's Giantslayer in Act 3)
 - **Grymskull Helm** --> Minthara (temporary head until Helm of Balduran in Act 3)
 - **Elixir of Hill Giant Strength** --> continues on Minthara
 - Lae'zel goes to camp or leaves party
