@@ -1,0 +1,18 @@
+title: BG3 Evil Co-Op Guide
+description: Build guides and playthrough reference for our evil party
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+aux_links:
+  "Back to Top":
+    - "#"
+
+footer_content: "BG3 Evil Co-Op Playthrough Guide"
+
+exclude:
+  - guides/
+  - reference/
+  - dist/
+  - "*.csv"
+  - "*.html"

@@ -1,0 +1,14 @@
+# Source reference files (not needed on the site)
+guides/
+reference/
+dist/
+dist/old/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jekyll build output
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
