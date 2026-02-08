@@ -15,6 +15,7 @@ nav_order: 2
 ## Final Gear Assignments (BiS)
 
 ### Shadowheart — SSB 10/2
+
 | Slot | Item |
 |------|------|
 | Weapon | Shar's Spear of Evening |
@@ -29,6 +30,7 @@ nav_order: 2
 | Ring 2 | Risky Ring |
 
 ### Visara — Fire Sorlock 11/1
+
 | Slot | Item |
 |------|------|
 | Main Hand | Markoheshkir |
@@ -44,6 +46,7 @@ nav_order: 2
 | Ring 2 | Ring of Mental Inhibition |
 
 ### Astarion — Gloom Stalker Assassin (Ranged)
+
 | Slot | Item |
 |------|------|
 | Melee | Club of Hill Giant Strength (or Knife of the Undermountain King) |
@@ -58,6 +61,7 @@ nav_order: 2
 | Ring 2 | Caustic Band |
 
 ### Minthara — Dark Knight Sorcadin (joins Act 2)
+
 | Slot | Item |
 |------|------|
 | Weapon | Balduran's Giantslayer |
@@ -72,6 +76,7 @@ nav_order: 2
 | Ring 2 | Ring of Protection |
 
 ### Lae'zel — Temporary (Act 1 + early Act 2)
+
 | Slot | Item |
 |------|------|
 | Weapon | Everburn Blade |
