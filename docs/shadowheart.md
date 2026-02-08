@@ -7,7 +7,7 @@ nav_order: 4
 # Shadowheart Leveling Reference - Smite Swords Bard (Evil)
 
 **Final Build:** 10 College of Swords Bard / 2 Oath of Vengeance Paladin
-**Gear Priority:** #2 (you control this character)
+**Gear Priority:** #2 (Player 1)
 **Role:** Melee burst damage + crowd control via Command/Hold
 **Starting Stats:** 17 STR, 16 CHA, 14 CON, 10 DEX (dump INT/WIS)
 

@@ -8,7 +8,7 @@ nav_order: 2
 
 **Party:** Shadowheart (SSB) | Visara (Fire Sorlock) | Astarion (Gloom Stalker) | Lae'zel (temp) → Minthara (Sorcadin)
 **Gear Priority:** Visara > Shadowheart > Astarion > Minthara
-**Controls:** You = Shadowheart + Minthara (melee) | Friend = Visara + Astarion (ranged)
+**Controls:** Player 1 = Shadowheart + Minthara (melee) | Player 2 = Visara + Astarion (ranged)
 
 ---
 
@@ -109,7 +109,7 @@ nav_order: 2
 
 ### Sunlit Wetlands / Hag Fight (Level 4)
 - **HAG'S HAIR → SHADOWHEART (+1 STR)**. STR goes from 17→18.
-- Save Mayrina (or don't — evil run, your call)
+- Save Mayrina (or don't — evil run, up to the party)
 
 ### Goblin Camp (Level 4-5)
 - [ ] **Crusher's Ring** → Lae'zel: Novice Crusher near waypoint (+3m movement)

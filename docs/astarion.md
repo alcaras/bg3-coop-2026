@@ -7,7 +7,7 @@ nav_order: 5
 # Astarion Leveling Guide - Gloom Stalker Assassin (Ranged)
 
 **Final Build:** Ranger 5 / Rogue 4 (Assassin) / Fighter 2 / War Cleric 1
-**Party Priority:** #3 (friend-controlled, ranged)
+**Party Priority:** #3 (Player 2, ranged)
 **Core Weapon:** Titanstring Bow (entire game once acquired)
 **Starting Stats:** STR 8, DEX 17 (15+2), CON 14, INT 8, WIS 16 (15+1), CHA 10
 

@@ -18,7 +18,7 @@ nav_order: 1
 
 | Guide | Description |
 |:------|:------------|
-| [Playthrough Guide](playthrough) | Master reference for your second monitor. Route, gear pickups, evil choices. |
+| [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, evil choices. |
 | [Visara](visara) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
 | [Shadowheart](shadowheart) | Smite Swords Bard 10/2 — Melee burst. Priority #2. |
 | [Astarion](astarion) | Gloom Stalker Assassin — Ranged burst. Priority #3. |
@@ -29,9 +29,9 @@ nav_order: 1
 
 ## Quick Reference
 
-**Player 1 (melee):** Shadowheart + Minthara — you control both melee characters. Stay grouped for Minthara's Aura of Protection (+4 saves to nearby allies).
+**Player 1 (melee):** Shadowheart + Minthara. Stay grouped for Minthara's Aura of Protection (+4 saves to nearby allies).
 
-**Player 2 (ranged):** Visara + Astarion — your friend controls both ranged characters. Visara locks enemies down with Extended Command, Astarion deletes priority targets from stealth.
+**Player 2 (ranged):** Visara + Astarion. Visara locks enemies down with Extended Command, Astarion deletes priority targets from stealth.
 
 ### Key Evil Choices
 

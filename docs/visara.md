@@ -7,7 +7,7 @@ nav_order: 3
 # Visara Leveling Guide - Fire Sorlock
 
 **Final Build:** 11 Red Draconic Sorcerer / 1 Fiend Warlock
-**Role:** Ranged caster (controlled by friend) | Gear Priority #1
+**Role:** Ranged caster (Player 2) | Gear Priority #1
 **Starting Stats:** 17 CHA, 16 DEX, 14 CON (dump STR, INT)
 **No respecs needed.**
 
