@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# BG3 Evil Co-Op Playthrough Guide
+# BG3 Co-Op Playthrough Guide
 
 **Party:** Shadowheart (melee) + Minthara (melee) | Visara (ranged) + Astarion (ranged)
 {: .fs-5 }

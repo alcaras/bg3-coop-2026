@@ -1,14 +1,21 @@
-title: BG3 Evil Co-Op Guide
-description: Build guides and playthrough reference for our evil party
-remote_theme: just-the-docs/just-the-docs
+title: BG3 Co-Op Guide
+description: Build guides and playthrough reference for our co-op party
 
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-aux_links:
-  "Back to Top":
-    - "#"
+search_enabled: true
+search:
+  heading_level: 3
 
-footer_content: "BG3 Evil Co-Op Playthrough Guide"
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "BG3 Co-Op Playthrough Guide — 2026"
+
+nav_sort: case_sensitive
 
 exclude:
   - guides/
