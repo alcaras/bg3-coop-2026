@@ -1,10 +1,7 @@
 title: BG3 Co-Op Guide
 description: Build guides and playthrough reference for our co-op party
 
-remote_theme: just-the-docs/just-the-docs@v0.10.0
-
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 
 color_scheme: dark
 
@@ -20,10 +17,3 @@ back_to_top_text: "Back to top"
 footer_content: "BG3 Co-Op Playthrough Guide — 2026"
 
 nav_sort: case_sensitive
-
-exclude:
-  - guides/
-  - reference/
-  - dist/
-  - "*.csv"
-  - "*.html"
