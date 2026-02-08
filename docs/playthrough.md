@@ -140,7 +140,7 @@ Enter via Goblin Camp, Blighted Village well, or Hag's lair.
 - [ ] **Boots of Stormy Clamour** → Varria: Buy from Omeluum after quest
 - [ ] **Melf's First Staff** → Varria: From Omeluum shop (dual wield with Spellsparkler)
 - [ ] **Caustic Band** → Astarion: Buy from Derryth Bonecloak
-- [ ] **Knife of the Undermountain King** → Astarion: Myconid quest reward
+- [ ] **Knife of the Undermountain King** → Astarion: Grymforge (Duergar area)
 
 ### Underdark — Grymforge (Level 5-6)
 - [ ] **Disintegrating Night Walkers** → Shadowheart: Kill Nere
