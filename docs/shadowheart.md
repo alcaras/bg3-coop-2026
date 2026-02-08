@@ -131,7 +131,7 @@ Respec spell picks (Bard side): Sleep, Healing Word, Hold Person, Enhance Abilit
 | Chest | Bhaalist Armour | Act 3 -- Murder Tribunal (accept Bhaal) |
 | Gloves | Gloves of Dexterity | Creche Y'llek -- A'jak'nir Jeera |
 | Boots | Disintegrating Night Walkers | Grymforge -- Nere's corpse |
-| Cloak | Cloak of Protection | Act 2 -- Last Light Inn (Visara hands it over in Act 3) |
+| Cloak | Cloak of Protection | Act 2 -- Last Light Inn (Varria hands it over in Act 3) |
 | Amulet | Amulet of the Devout | Act 3 -- Stormshore Armoury |
 | Ring 1 | Band of the Mystic Scoundrel | Rivington Circus -- Akabi djinn |
 | Ring 2 | Risky Ring | Moonrise Towers -- Roah Moonglow |
@@ -148,7 +148,7 @@ Gloves of Dexterity (never remove). Unseen Menace (pike, replaces Phalar Aluve).
 Unseen Menace -> Shar's Spear of Evening. Dwarven Splintmail (heavy armor after respec). Helmet of Arcane Acuity. Risky Ring.
 
 **Act 3:**
-Band of the Mystic Scoundrel + Bhaalist Armour + Amulet of the Devout + Cloak of Protection (from Visara). Full build online.
+Band of the Mystic Scoundrel + Bhaalist Armour + Amulet of the Devout + Cloak of Protection (from Varria). Full build online.
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Visara — Fire Sorlock"
+title: "Varria — Fire Sorlock"
 nav_order: 3
 ---
 
-# Visara Leveling Guide - Fire Sorlock
+# Varria Leveling Guide - Fire Sorlock
 
 **Final Build:** 11 Red Draconic Sorcerer / 1 Fiend Warlock
 **Role:** Ranged caster (Player 2) | Gear Priority #1
 **Starting Stats:** 17 CHA, 16 DEX, 14 CON (dump STR, INT)
 **No respecs needed.**
 
-> **Hag's Hair goes to Shadowheart, NOT Visara.**
+> **Hag's Hair goes to Shadowheart, NOT Varria.**
 > Start 17 CHA. Take Elemental Adept: Fire as 2nd feat (no archer support for Arsonist's Oil).
 > Mirror of Loss +2 CHA in Act 3 brings you to 19 CHA. With Acuity at 10 stacks your DC is 30+ which is unresistable.
 
@@ -87,7 +87,7 @@ nav_order: 3
 
 ---
 
-## BiS Gear (Visara is #1 priority)
+## BiS Gear (Varria is #1 priority)
 
 | Slot | Item | Source |
 |------|------|--------|
@@ -119,7 +119,7 @@ nav_order: 3
 
 - **DO NOT KILL** the Strange Ox in Act 1 (Emerald Grove stables).
 - Kill it in **Act 2** at Last Light Inn stables.
-- It drops **Hat of Fire Acuity** -- Visara's #1 core item.
+- It drops **Hat of Fire Acuity** -- Varria's #1 core item.
 
 ---
 

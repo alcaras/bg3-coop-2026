@@ -6,10 +6,10 @@ nav_order: 1
 
 # BG3 Co-Op Playthrough Guide
 
-**Party:** Shadowheart (melee) + Minthara (melee) | Visara (ranged) + Astarion (ranged)
+**Party:** Shadowheart (melee) + Minthara (melee) | Varria (ranged) + Astarion (ranged)
 {: .fs-5 }
 
-**Gear Priority:** Visara > Shadowheart > Astarion > Minthara
+**Gear Priority:** Varria > Shadowheart > Astarion > Minthara
 {: .fs-4 .text-grey-dk-100 }
 
 ---
@@ -19,7 +19,7 @@ nav_order: 1
 | Guide | Description |
 |:------|:------------|
 | [Playthrough Guide](playthrough) | Master reference for a second monitor. Route, gear pickups, key choices. |
-| [Visara](visara) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
+| [Varria](varria) | Fire Sorlock 11/1 — Ranged caster. Priority #1. |
 | [Shadowheart](shadowheart) | Smite Swords Bard 10/2 — Melee burst. Priority #2. |
 | [Astarion](astarion) | Gloom Stalker Assassin — Ranged burst. Priority #3. |
 | [Minthara](minthara) | Dark Knight Sorcadin 7/5 — Melee tank/support. Priority #4. |
@@ -31,7 +31,7 @@ nav_order: 1
 
 **Player 1 (melee):** Shadowheart + Minthara. Stay grouped for Minthara's Aura of Protection (+4 saves to nearby allies).
 
-**Player 2 (ranged):** Visara + Astarion. Visara melts groups with Scorching Ray and Fireball, then locks down survivors with Extended Command. Astarion deletes priority targets from stealth.
+**Player 2 (ranged):** Varria + Astarion. Varria melts groups with Scorching Ray and Fireball, then locks down survivors with Extended Command. Astarion deletes priority targets from stealth.
 
 <details>
 <summary><strong>Key Story Choices (Spoilers)</strong></summary>
@@ -40,7 +40,7 @@ nav_order: 1
 | When | Choice | Reward |
 |:-----|:-------|:-------|
 | Act 1 | Raid the Emerald Grove | Minthara joins as permanent companion in Act 2 |
-| Act 2 | Kill Strange Ox at Last Light Inn | Hat of Fire Acuity (Visara's core item) |
+| Act 2 | Kill Strange Ox at Last Light Inn | Hat of Fire Acuity (Varria's core item) |
 | Act 2 | Shadowheart kills the Nightsong | Shar's Spear of Evening |
 | Act 3 | Murder Tribunal — accept Bhaal | Bhaalist Armour (doubles piercing damage) |
 | Act 3 | House of Grief — SH kills parents | Shar's Chosen |

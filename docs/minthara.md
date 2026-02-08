@@ -7,7 +7,7 @@ nav_order: 6
 # Minthara Leveling Reference - Dark Knight Sorcadin
 
 **Final Build:** 7 Oathbreaker Paladin / 5 White Draconic Sorcerer
-**Gear Priority:** #4 (lowest -- takes what's left after Visara, Shadowheart, Astarion)
+**Gear Priority:** #4 (lowest -- takes what's left after Varria, Shadowheart, Astarion)
 **Role:** Melee tank/support. Aura of Protection is the #1 reason she's in the party.
 **Starting Stats (respec):** 8 STR, 10 DEX, 14 CON, 8 INT, 10 WIS, 16 CHA
 
@@ -65,7 +65,7 @@ Alternative stat spread: 8 STR, **16 DEX**, 14 CON, 8 INT, 8 WIS, 16 CHA -- bett
 
 ### IMPORTANT: Aura of Hate Clarification
 
-Aura of Hate adds Minthara's CHA modifier (+3, later +4) to **her own melee weapon damage only**. It does NOT buff Shadowheart, Visara, Astarion, or any humanoid party member. The only other creatures that benefit are **fiends and undead** within the aura -- including enemy ones, so be careful around undead fights.
+Aura of Hate adds Minthara's CHA modifier (+3, later +4) to **her own melee weapon damage only**. It does NOT buff Shadowheart, Varria, Astarion, or any humanoid party member. The only other creatures that benefit are **fiends and undead** within the aura -- including enemy ones, so be careful around undead fights.
 
 The real party-wide benefit is **Aura of Protection** (Level 6), not Aura of Hate.
 
@@ -136,7 +136,7 @@ The real party-wide benefit is **Aura of Protection** (Level 6), not Aura of Hat
 
 ## BiS Gear (No Conflicts)
 
-Minthara does NOT get: Shar's Spear (Shadowheart), Bhaalist Armour (Shadowheart), Hat of Fire Acuity (Visara), Markoheshkir (Visara), Band of the Mystic Scoundrel (Shadowheart).
+Minthara does NOT get: Shar's Spear (Shadowheart), Bhaalist Armour (Shadowheart), Hat of Fire Acuity (Varria), Markoheshkir (Varria), Band of the Mystic Scoundrel (Shadowheart).
 
 | Slot | Item | Source |
 |------|------|--------|
