@@ -1,7 +1,11 @@
 title: BG3 Co-Op Guide
 description: Build guides and playthrough reference for our co-op party
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+plugins:
+  - jekyll-remote-theme
+
 color_scheme: dark
 
 search_enabled: true
