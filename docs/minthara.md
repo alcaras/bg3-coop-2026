@@ -145,13 +145,13 @@ Minthara does NOT get: Shar's Spear (Shadowheart), Bhaalist Armour (Shadowheart)
 | Head | Helm of Balduran | Act 3 -- Wyrm's Rock (same fight as Giantslayer) |
 | Chest | Helldusk Armour | Act 3 -- House of Hope (Raphael fight) |
 | Gloves | Gauntlets of Hill Giant Strength | Act 3 -- House of Hope archives |
-| Boots | Helldusk Boots | Act 3 -- House of Hope |
+| Boots | Helldusk Boots | Act 3 -- Wyrm's Rock Fortress (Gilded Chest, top floor) |
 | Cloak | Cloak of Displacement | Act 3 -- Lower City vendor |
 | Amulet | Amulet of Greater Health (23 CON) | Act 3 -- House of Hope archives |
 | Ring 1 | Killer's Sweetheart | Act 2 -- Gauntlet of Shar |
 | Ring 2 | Ring of Protection | Act 1 -- Emerald Grove (Mol's quest) |
 
-**House of Hope is Minthara's gearing event.** Helldusk Armour, Helldusk Boots, Gauntlets, and Amulet all drop from one trip. Plan accordingly.
+**House of Hope is Minthara's major gearing event.** Helldusk Armour, Gauntlets, and Amulet all come from one trip. Helldusk Boots are at Wyrm's Rock Fortress (grab before Gortash's coronation).
 
 ---
 
@@ -164,7 +164,7 @@ Transfer Lae'zel's gear -- Adamantine Splint Armour, Everburn Blade or any +1/+2
 Killer's Sweetheart (auto-crit ring, 1/long rest). Keep Adamantine Splint + greatsword.
 
 **Act 3 (House of Hope):**
-Gauntlets of Hill Giant Strength + Amulet of Greater Health + Helldusk Armour + Helldusk Boots. All from one trip. Switch daily elixir from Hill Giant Strength to **Elixir of Bloodlust** (extra action on kill).
+Gauntlets of Hill Giant Strength + Amulet of Greater Health + Helldusk Armour. All from one trip. Helldusk Boots come from Wyrm's Rock Fortress. Switch daily elixir from Hill Giant Strength to **Elixir of Bloodlust** (extra action on kill).
 
 **Act 3 (Wyrm's Rock -- Ansur fight):**
 Balduran's Giantslayer + Helm of Balduran. Both from the same dragon fight. Giantslayer replaces greatsword. Full build online.

@@ -95,7 +95,7 @@ nav_order: 3
 | Off Hand | Rhapsody | Cazador's Palace (Cazador drop) |
 | Ranged | Hellrider Longbow | Rivington -- Ferg Drogher (+3 initiative) |
 | Head | Hat of Fire Acuity | Act 2 -- Kill Strange Ox at Last Light Inn |
-| Chest | Armour of Landfall | Sorcerous Sundries |
+| Chest | Armour of Landfall | Sorcerous Sundries (ground floor -- Lorroakan's Projection or Rolan) |
 | Gloves | Spellmight Gloves | Rivington Circus -- pickpocket Lucretious |
 | Boots | Boots of Stormy Clamour | Underdark -- Omeluum after quest |
 | Cloak | Cloak of the Weave | Act 3 -- Secret Shop (Lower City) |

@@ -101,17 +101,17 @@ nav_order: 5
 | Slot | Item | Source |
 |------|------|--------|
 | Ranged | Titanstring Bow | Zhentarim trader (Brem) |
-| Ranged (early) | Bow of Awareness (+1, +1d4 initiative) | Use until Titanstring |
-| Melee | Knife of the Undermountain King | Grymforge |
-| Gloves | Gloves of Archery (+2 ranged damage) | Blighted Village or traders |
-| Amulet | Broodmother's Revenge (+1d6 poison on target below 50% HP) | Underdark - Spider Matriarch |
-| Ring 1 | Strange Conduit Ring | Underdark - Omeluum quest |
-| Ring 2 | Caustic Band (+2 acid damage) | Underdark - Derryth Bonecloak |
+| Ranged (early) | Bow of Awareness (+1, +1 initiative) | Use until Titanstring |
+| Melee | Knife of the Undermountain King | Creche Y'llek -- A'jak'nir Jeera |
+| Gloves | Gloves of Archery (+2 ranged damage) | Goblin Camp -- Grat the Trader |
+| Amulet | Broodmother's Revenge (+1d6 poison on target below 50% HP) | Emerald Grove -- Kagha |
+| Ring 1 | Strange Conduit Ring | Creche Y'llek -- Inquisitor's Chamber |
+| Ring 2 | Caustic Band (+2 acid damage) | Myconid Colony -- Derryth Bonecloak |
 
 ### Act 2
 | Slot | Item | Source |
 |------|------|--------|
-| Chest | Yuan-ti Scale Mail (no stealth disadvantage, +initiative) | Act 2 traders/loot |
+| Chest | Yuan-ti Scale Mail (no stealth disadvantage, +initiative) | Last Light Inn -- Quartermaster Talli |
 | Head | Marksmanship Hat | Act 2 |
 | Gloves | Dark Justiciar Gauntlets or Flawed Helldusk Gloves | Act 2 |
 

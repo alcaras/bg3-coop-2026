@@ -134,7 +134,7 @@ Respec spell picks (Bard side): Sleep, Healing Word, Hold Person, Enhance Abilit
 | Cloak | Cloak of Protection | Act 2 -- Last Light Inn (Varria hands it over in Act 3) |
 | Amulet | Amulet of the Devout | Act 3 -- Stormshore Armoury |
 | Ring 1 | Band of the Mystic Scoundrel | Rivington Circus -- Akabi djinn |
-| Ring 2 | Risky Ring | Moonrise Towers -- Roah Moonglow |
+| Ring 2 | Risky Ring | Moonrise Towers -- Araj Oblodra |
 
 ## Gear Progression
 

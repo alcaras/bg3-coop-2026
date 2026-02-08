@@ -106,7 +106,7 @@ nav_order: 2
 
 ### Blighted Village (Level 3)
 - [ ] **Bracers of Defence** → Varria: Gilded chest in Apothecary's Cellar (X: -656 Y: -370)
-- [ ] **Haste Helm** → Lae'zel: Locked wooden chest near waypoint
+- [ ] **Haste Helm** → Lae'zel: Moss-Covered Chest (X: 29 Y: 405)
 
 ### Risen Road / Waukeen's Rest (Level 3-4)
 - [ ] **The Spellsparkler** → Varria: Reward for rescuing Counsellor Florrick
@@ -118,6 +118,7 @@ nav_order: 2
 
 ### Goblin Camp (Level 4-5)
 - [ ] **Crusher's Ring** → Lae'zel: Novice Crusher near waypoint (+3m movement)
+- [ ] **Gloves of Archery** → Astarion: Buy from Grat the Trader (X: -99 Y: 424)
 - Talk to Minthara. **Tell her the Grove's location.**
 - Talk to Priestess Gut (for tadpole stuff if desired)
 
@@ -140,24 +141,23 @@ Enter via Goblin Camp, Blighted Village well, or Hag's lair.
 - [ ] **Boots of Stormy Clamour** → Varria: Buy from Omeluum after quest
 - [ ] **Melf's First Staff** → Varria: From Omeluum shop (dual wield with Spellsparkler)
 - [ ] **Caustic Band** → Astarion: Buy from Derryth Bonecloak
-- [ ] **Knife of the Undermountain King** → Astarion: Grymforge (Duergar area)
 
 ### Underdark — Grymforge (Level 5-6)
 - [ ] **Disintegrating Night Walkers** → Shadowheart: Kill Nere
 - [ ] **Adamantine Splint Armour** → Lae'zel: Craft at Adamantine Forge
 - [ ] **Grymskull Helm** → Lae'zel: Loot from Grym boss
+- [ ] **The Protecty Sparkswall** → Varria: Gilded chest at end of trapped bridge (X: -645 Y: 360)
 
 > Also available: Adamantine Scale Mail (contested — skip, Lae'zel uses Splint)
 
 ### Underdark — Arcane Tower (Level 5)
-- [ ] **Club of Hill Giant Strength** → Astarion: Stool in workshop, 4th floor (X: -30 Y: -274). Sets STR to 19 — lets Astarion drink Elixir of Bloodlust instead of STR elixirs.
-- [ ] **The Protecty Sparkswall** → Varria: Gilded chest behind trapped bridge (X: -645 Y: 360)
+- [ ] **Club of Hill Giant Strength** → Astarion: Break the Stool of Hill Giant Strength on 4th floor/roof (X: -26 Y: -272). Sets STR to 19 — lets Astarion drink Elixir of Bloodlust instead of STR elixirs.
 
 ### Mountain Pass / Creche Y'llek (Level 5-6)
-- [ ] **Gloves of Dexterity** → Shadowheart: Buy from A'jak'nir Jeera (X: 1387 Y: -821). NEVER REMOVE. Sets DEX to 18.
-- [ ] **Unseen Menace** → Shadowheart: Buy from same trader. Pike for mid-game.
-- [ ] **Strange Conduit Ring** → Astarion: Elegant chest in Inquisitor's Chamber (X: 1358 Y: -663)
-- [ ] **Gloves of Archery** → Astarion: Creche vendor
+- [ ] **Gloves of Dexterity** → Shadowheart: Buy from A'jak'nir Jeera (X: 1380 Y: -798). NEVER REMOVE. Sets DEX to 18.
+- [ ] **Unseen Menace** → Shadowheart: Buy from A'jak'nir Jeera (same trader).
+- [ ] **Knife of the Undermountain King** → Astarion: Buy from A'jak'nir Jeera (same trader).
+- [ ] **Strange Conduit Ring** → Astarion: Elegant chest in Inquisitor's Chamber (X: 1360 Y: -657)
 
 > **RESPEC REMINDER (Shadowheart at level 7):** Respec to 1 Paladin (Vengeance) → 6 Swords Bard. This gives Heavy Armor proficiency. Drop all DEX (Gloves of Dexterity handle it). Boost CON.
 
@@ -170,14 +170,15 @@ Enter via Goblin Camp, Blighted Village well, or Hag's lair.
 ### Last Light Inn (Level 6)
 First stop after entering Shadow-Cursed Lands.
 
-- [ ] **Cloak of Protection** → Varria (temp until Cloak of the Weave in Act 3, then → Shadowheart)
+- [ ] **Cloak of Protection** → Varria: Buy from Quartermaster Talli (temp until Cloak of the Weave in Act 3, then → Shadowheart)
+- [ ] **Yuan-ti Scale Mail** → Astarion: Buy from Quartermaster Talli (no stealth disadvantage)
 - [ ] **Amulet of the Harpers** → Shadowheart: For emergency saves
 
-> **!! CRITICAL: Kill the Strange Ox at the Last Light Inn stables.**
+> **!! CRITICAL: Kill the Strange Ox near Dammon's blacksmith at Last Light Inn.**
 - [ ] **Hat of Fire Acuity** → Varria: **BUILD ENABLER.** Generates Arcane Acuity on Fire damage. Varria's build is NOW ONLINE.
 
 ### Shadow-Cursed Lands — Ruined Battlefield (Level 6-7)
-- [ ] **Ring of Mental Inhibition** → Varria: Locked chest in House in Deep Shadows (X: 72 Y: 40)
+- [ ] **Ring of Mental Inhibition** → Varria: Locked chest in House in Deep Shadows (X: 76 Y: 40)
 
 ### Reithwin Town — Three Bosses (Level 7)
 Clear all three to weaken Ketheric:
@@ -189,7 +190,7 @@ Clear all three to weaken Ketheric:
 ### Moonrise Towers — First Visit (Level 7)
 Infiltrate. Meet Z'rell, Ketheric.
 
-- [ ] **Risky Ring** → Shadowheart: Buy from Roah Moonglow (use this now or lend to Varria for Act 2 if TB build needs it)
+- [ ] **Risky Ring** → Shadowheart: Buy from Araj Oblodra (X: -128 Y: -193)
 - [ ] **Spineshudder Amulet** → Varria: Mimic chest in Isobel's room (X: -171 Y: -195)
 - [ ] **Marksmanship Hat** → Astarion: Buy from Roah Moonglow
 - [ ] **Dwarven Splintmail** → Shadowheart: Buy from Lann Tarv (heavy armor for mid-game). Convince Z'rell for access.
@@ -200,8 +201,7 @@ Infiltrate. Meet Z'rell, Ketheric.
 Complete three trials. Collect 4 Umbral Gems.
 
 - [ ] **Callous Glow Ring** → Varria: Opulent chest in Balthazar's area (X: -819 Y: -753)
-- [ ] **Killer's Sweetheart** → Minthara (hold for later): Self-Same Trial room (X: -830 Y: -726)
-- [ ] **Yuan-ti Scale Mail** → Astarion: Found in Act 2 encounters (no stealth disadvantage)
+- [ ] **Killer's Sweetheart** → Minthara (hold for later): Self-Same Trial room (X: -833 Y: -729)
 
 <details>
 <summary><strong>!! STORY CHOICE: Shadowheart and the Nightsong (Spoilers)</strong></summary>
@@ -236,20 +236,22 @@ After the Moonrise Towers assault, Minthara becomes a permanent companion.
 
 **Circus of the Last Days:**
 - [ ] **Band of the Mystic Scoundrel** → Shadowheart: Beat the Djinn (Akabi) at his game. **CORE ITEM.** Cast Command as bonus action after weapon attack.
-- [ ] **Spellmight Gloves** → Varria: Pickpocket Lucretious at her tent
+- [ ] **Spellmight Gloves** → Varria: Reward for completing "Find Dribbles the Clown" from Lucretious (or pickpocket her)
 
 **Rivington shops:**
 - [ ] **Hellrider Longbow** → Varria: Buy from Ferg Drogher (+3 initiative, equip at combat start for initiative then swap to staves)
 
 ### Wyrm's Crossing (Level 9)
+- [ ] **Cloak of Displacement** → Minthara: Buy from Entharl Danthelon at Danthelon's Dancing Axe (X: -10 Y: 143)
 - Meet Gortash at Wyrm's Rock Fortress
+- [ ] **Helldusk Boots** → Minthara: Locked Gilded Chest on top floor of Wyrm's Rock (X: -32 Y: 219). Grab BEFORE Gortash's coronation to avoid hostility.
 
 ### Lower City — Initial Shopping Spree (Level 9-10)
 Hit all merchants first before major questlines.
 
 **Sorcerous Sundries (Ramazith's Tower):**
 - [ ] **Markoheshkir** → Varria: Pedestal puzzle with See Invisibility. **CORE ITEM.** +1 spell attack/DC, Arcane Battery, Flame of Wrath attunement.
-- [ ] **Armour of Landfall** → Varria: Lorroakan's chambers. +1 DC, CON save advantage.
+- [ ] **Armour of Landfall** → Varria: Buy from Lorroakan's Projection or Rolan on ground floor (X: -14 Y: -72). +1 DC, CON save advantage.
 
 **Stormshore Tabernacle:**
 - [ ] **Amulet of the Devout** → Shadowheart: Offering chest in basement treasury (X: 796 Y: 1159). +2 spell save DC.
@@ -260,16 +262,14 @@ Hit all merchants first before major questlines.
 **Devil's Fee:**
 - [ ] **Mask of Soul Perception** → Astarion: Locked gilded chest, top floor (X: -33 Y: 17). +2 attack, +2 initiative, +2 perception.
 
-**Secret Shop (unlocked via dialog/checks):**
-- [ ] **Cloak of the Weave** → Varria: +1 spell save DC, +1 spell attack. Hand Cloak of Protection to Shadowheart.
+**Devil's Fee (Helsik's special stock):**
+- [ ] **Cloak of the Weave** → Varria: Buy from Helsik at Devil's Fee once special stock unlocked (X: -38 Y: 17). +1 spell save DC, +1 spell attack. Hand Cloak of Protection to Shadowheart.
 
 **Guildhall (Sewers):**
 - [ ] **Shade-Slayer Cloak** → Astarion: Buy from Sticky Dondo in Mol's encampment
 
-**Various Lower City vendors:**
-- [ ] **Vicious Shortbow** → Minthara: stat stick
-- [ ] **Cloak of Displacement** → Minthara: enemies have disadvantage on attacks
-- [ ] **Boots of Persistence** → Astarion: Freedom of Movement + Longstrider
+**Forge of the Nine (Dammon, Lower City):**
+- [ ] **Boots of Persistence** → Astarion: Freedom of Movement + Longstrider (X: 392 Y: 766)
 - [ ] **Legacy of the Masters** → Astarion: +2 attack, +2 damage (replaces Gloves of Archery)
 
 <details>
@@ -279,15 +279,16 @@ Hit all merchants first before major questlines.
 Complete "Investigate the Murders." Bring a hand to Candulhallow's Tombstones.
 - Kill Inspector Valeria. Accept Bhaal. Become Unholy Assassin.
 - [ ] **Bhaalist Armour** → Shadowheart: Buy from Echo of Abazigal. **Aura of Murder = double ALL piercing damage.** Toggle on/off as needed.
+- [ ] **Vicious Shortbow** → Minthara: Buy from Echo of Abazigal (same vendor, stat stick).
 
 > Shadowheart's build is now FULLY ONLINE: Shar's Spear + Bhaalist Armour + Arcane Acuity + Band of Mystic Scoundrel = one-shot most encounters.
 
 </div>
 </details>
 
-### Cazador's Palace (Level 10-11)
+### Cazador's Dungeon (Level 10-11)
 Astarion's personal quest.
-- [ ] **Rhapsody** → Varria: Cazador drops this. +1/+2/+3 to attack, damage, and DC per kill (stacks to 3).
+- [ ] **Rhapsody** → Varria: Carried by Cazador Szarr (X: -1925 Y: 944). +1/+2/+3 to attack, damage, and DC per kill (stacks to 3).
 
 <details>
 <summary><strong>!! STORY CHOICE: House of Grief (Level 10-11, Spoilers)</strong></summary>
@@ -307,10 +308,9 @@ Fight Ansur the dragon beneath Wyrm's Rock.
 Access via Helsik at Devil's Fee. **HUGE gear-up for Minthara.**
 - [ ] **Gauntlets of Hill Giant Strength** → Minthara: Archive pedestal. Sets STR to 23. Drop STR elixirs, switch to Elixir of Bloodlust.
 - [ ] **Amulet of Greater Health** → Minthara: Archive pedestal. Sets CON to 23.
-- [ ] **Helldusk Boots** → Minthara: Locked gilded chest, top floor audience hall
 - [ ] **Helldusk Armour** → Minthara: Defeat Raphael. AC 21, -3 all damage, fire resist, free Fly.
 
-> After House of Hope, Minthara is fully geared: Giantslayer + Helldusk + Gauntlets + Helm of Balduran = unstoppable tank.
+> After House of Hope + Wyrm's Rock, Minthara is fully geared: Giantslayer + Helldusk Armour + Helldusk Boots + Gauntlets + Helm of Balduran = unstoppable tank.
 
 ### Steel Watch Foundry (Level 11)
 Disable the Steel Watchers.
